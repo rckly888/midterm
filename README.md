@@ -1,8 +1,5 @@
 # MSTU 5003 Midterm Design Document
-Write a design document where you explain your project. You should clearly explain the problem you're trying to solve. Be sure to describe the domain you're working with and the users you're trying to target. Remember that the point of your design document is that you can hand it off to any developer and theoretically they would be able to understand and build the program.
-
-You'll be adding to your design document as you work towards your midterm due on **March 22, 2017**.
-
+This is a design document for a website that is dedicated for teaching music instrument online. The goal of this document is to introduce the intended purpose, benefits, and audience of the website. It also includes further analysis of potential users with user stories. Furthermore, it incorporates strategy, objective, and success masurement. Last but not least, content specifications, information architecture, and navigation design will be discussed in detail.
 
 ## Topic
 *What is the subject at hand?*
@@ -12,7 +9,7 @@ You'll be adding to your design document as you work towards your midterm due on
 *What is the problem you're trying to solve?*
 
 ## Target Audience
-*Who is your target audience? Describe in detail*
+This website is for adults who are interested in learning violin but don't know where to begin.
 
 ### User Stories
 **Outline 2-3 user stories. Describe how they find out, engage and come back to your site. Provide rationale.**
