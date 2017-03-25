@@ -9,7 +9,13 @@ This is a design document for a website that is dedicated for teaching music ins
 *What is the problem you're trying to solve?*
 
 ## Target Audience
-This website is for adults who are interested in learning violin but don't know where to begin.
+This website is for adults who are interested in learning violin but either are new or only have some limited knowledge of playing violin. The target audience have high interests in classical music. And they are typically the same group who go to classical music concerts. They are familiar with some famous symphonies and composers. Now they are looking forward to take another step in the classical music world, playing the music themselves. And it's very likly that they come to the website with a list of music in mind that they want to to able to play in the future.
+
+Our assumption is that the majority of the early adptors are between the age of **35-65** with college degree or up. Most of them live in urban areas. Even though most of them are well-educated, they are typically not the best technology users. Therefore, we believe that feasibility, engagement, and early satisfaction establishment are critical for customer retention.
+
+What they know:
+
+What they don't know:
 
 ### User Stories
 **Outline 2-3 user stories. Describe how they find out, engage and come back to your site. Provide rationale.**
