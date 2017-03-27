@@ -29,8 +29,8 @@ Keep these questions in mind:
 - What are you building and what will it accomplish?
 - What kind of engagement and value will the feature/website bring for the user? What does it accomplish?
 
-- **User Story 1:**
-- **User Story 2:**
+- **User Story 1:** One user can be someone who is returning to violin after years away from the instrument
+- **User Story 2:**ANother user can be someone who knows how to play by ear but wants to learn the notes.
 - **User Story 3:**
 - **User Story 4:**
 
